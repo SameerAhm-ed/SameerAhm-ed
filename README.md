@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SameerAhm-ed/SameerAhm-ed/main/banner.svg" width="100%" alt="Sameer Ahmed — AI & Full-Stack Developer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SameerAhm-ed/SameerAhm-ed/main/banner-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SameerAhm-ed/SameerAhm-ed/main/banner-light.svg"/>
+  <img src="https://raw.githubusercontent.com/SameerAhm-ed/SameerAhm-ed/main/banner-dark.svg" width="100%" alt="Sameer Ahmed — AI & Full-Stack Developer"/>
+</picture>
 
 </div>
+
+Full-Stack Developer & Data Analyst at **Artistic Milliners (Unit 5)** and Computer Science student at **IQRA University**, based in Karachi. I build local-first AI and real-time systems that run in production on the factory floor — and I'm currently focused on conversational AI and RAG.
 
 ## 🔨 Featured Work
 
@@ -17,7 +23,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,flutter,dart,fastapi,nodejs,postgres,redis,mysql,docker,linux,aws,vercel,git,github&theme=dark&perline=10" alt="tech stack"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,flutter,dart,fastapi,nodejs,postgres,redis,mysql,docker,linux,aws,vercel,git,github&theme=dark&perline=10"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,flutter,dart,fastapi,nodejs,postgres,redis,mysql,docker,linux,aws,vercel,git,github&theme=light&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,flutter,dart,fastapi,nodejs,postgres,redis,mysql,docker,linux,aws,vercel,git,github&theme=dark&perline=10" alt="tech stack"/>
+</picture>
 
 </div>
 
@@ -25,8 +35,16 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerAhm-ed&theme=github_dark" height="185" alt="top languages"/>
-<img src="https://streak-stats.demolab.com?user=SameerAhm-ed&background=0D1117&border=30363D&stroke=E6EDF3&ring=3FB950&fire=3FB950&currStreakNum=E6EDF3&currStreakLabel=3FB950&sideNums=E6EDF3&sideLabels=8B949E&dates=6E7681" height="185" alt="contribution streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerAhm-ed&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerAhm-ed&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerAhm-ed&theme=github_dark" height="185" alt="top languages"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SameerAhm-ed&background=0D1117&border=30363D&stroke=E6EDF3&ring=3FB950&fire=3FB950&currStreakNum=E6EDF3&currStreakLabel=3FB950&sideNums=E6EDF3&sideLabels=8B949E&dates=6E7681"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SameerAhm-ed&background=FFFFFF&border=D0D7DE&stroke=1F2328&ring=1A7F37&fire=1A7F37&currStreakNum=1F2328&currStreakLabel=1A7F37&sideNums=1F2328&sideLabels=57606A&dates=8C959F"/>
+  <img src="https://streak-stats.demolab.com?user=SameerAhm-ed&background=0D1117&border=30363D&stroke=E6EDF3&ring=3FB950&fire=3FB950&currStreakNum=E6EDF3&currStreakLabel=3FB950&sideNums=E6EDF3&sideLabels=8B949E&dates=6E7681" height="185" alt="contribution streak"/>
+</picture>
 
 </div>
 
@@ -34,10 +52,8 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sameerahm-ed/"><img src="https://img.shields.io/badge/LinkedIn-Sameer%20Ahmed-5A54D6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:sameer03054@gmail.com"><img src="https://img.shields.io/badge/Email-sameer03054%40gmail.com-0E8074?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-&nbsp;
-<a href="https://github.com/SameerAhm-ed"><img src="https://img.shields.io/badge/Portfolio-View-2B3440?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/sameerahm-ed/"><img src="https://img.shields.io/badge/LinkedIn-Sameer%20Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sameer03054@gmail.com"><img src="https://img.shields.io/badge/Email-sameer03054%40gmail.com-0E8074?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/SameerAhm-ed"><img src="https://img.shields.io/badge/Portfolio-View-1A7F37?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
