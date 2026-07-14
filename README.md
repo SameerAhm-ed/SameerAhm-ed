@@ -3,31 +3,31 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SameerAhm-ed/SameerAhm-ed/main/banner-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SameerAhm-ed/SameerAhm-ed/main/banner-light.svg"/>
-  <img src="https://raw.githubusercontent.com/SameerAhm-ed/SameerAhm-ed/main/banner-dark.svg" width="100%" alt="Sameer Ahmed — AI & Full-Stack Developer"/>
+  <img src="https://raw.githubusercontent.com/SameerAhm-ed/SameerAhm-ed/main/banner-dark.svg" width="100%" alt="Sameer Ahmed, AI & Full-Stack Developer"/>
 </picture>
 
 </div>
 
-**Full-Stack & AI Developer** building on-prem LLM tooling and real-time industrial systems. Full-Stack Developer & Data Analyst at **Artistic Milliners (Unit 5)**, CS @ **IQRA University** — Karachi, Pakistan.
+I'm Sameer Ahmed, a full-stack and AI developer in Karachi. I build on-prem LLM tools and real-time systems for industry. Day to day I work as a full-stack developer and data analyst at Artistic Milliners (Unit 5), and I'm a computer science student at IQRA University.
 
-My differentiators are the kind most people my level don't have: a **fully on-prem RAG assistant** (no data leaves the machine) and a **real-time energy dashboard** running across 4 live manufacturing sites.
+Two projects I'm proud of: an on-prem RAG assistant where no company data leaves the machine, and an energy dashboard that runs live across four manufacturing sites.
 
-### 🌱 Currently
+## Currently
 
-- Building conversational AI — on-prem RAG assistants with multi-turn memory, source citations, and a live eval harness *(Llama 3.2 · FastAPI · ChromaDB)*
-- Porting the plant machine-maintenance log *(Python · Streamlit · PostgreSQL)* to **React Native** so technicians can log complaints from the floor
-- Going deeper on vector search, prompt design, and containerized deploys *(Docker · Redis · Linux)*
+- Building on-prem RAG assistants that run on local hardware (Llama 3.2, FastAPI, ChromaDB)
+- Porting the plant maintenance-log app from Streamlit to React Native, so technicians can log complaints from the floor
+- Getting deeper into vector search and Docker-based deploys
 
-## 🔨 Featured Work
+## Featured work
 
 | Project | What it does | Built with |
 |---|---|---|
-| 🤖 [**On-Prem RAG Chatbot**](https://github.com/SameerAhm-ed/artistic-milliners-rag-bot) | Fully local support assistant that answers only from a fixed knowledge base — source citations, anti-hallucination refusal, multi-turn memory, and a live 7/7 eval harness | `Python` · `FastAPI` · `ChromaDB` · `Llama 3.2` |
-| 🏭 [**Energy Monitoring System**](https://github.com/SameerAhm-ed/auth-app) | Real-time multi-site energy dashboard — live plant telemetry for 8 utility units across 4 sites, role-based access, offline-capable PWA | `Next.js` · `TypeScript` · `MS SQL Server` · `Tailwind` |
-| 🥇 [**Aurum — Gold Trader's Edge**](https://github.com/SameerAhm-ed/gold-analytics) | Mobile-first decision-support PWA for gold traders: live prices, macro cockpit, position-size risk desk, and real push alerts | `Next.js 16` · `React 19` · `Web Push` |
-| 🔧 **Machine Maintenance Log** | Complaint-lifecycle tracking for plant machinery — faults, remedies, technician assignment & resolution times *(internal → porting to React Native)* | `Python` · `Streamlit` · `PostgreSQL` |
+| 🤖 [On-prem RAG chatbot](https://github.com/SameerAhm-ed/artistic-milliners-rag-bot) | Answers questions only from a fixed knowledge base, with citations and a refusal when it isn't sure. Keeps multi-turn context and passes a 7/7 eval harness. | `Python` `FastAPI` `ChromaDB` `Llama 3.2` |
+| 🏭 [Energy Monitoring System](https://github.com/SameerAhm-ed/auth-app) | Shows live telemetry for 8 utility units across 4 plant sites. Has role-based access and works offline as a PWA. | `Next.js` `TypeScript` `MS SQL Server` |
+| 🥇 [Aurum, gold trader's edge](https://github.com/SameerAhm-ed/gold-analytics) | A gold-trading dashboard with live prices, a macro view, position-size risk tools, and push alerts. | `Next.js 16` `React 19` `Web Push` |
+| 🔧 Machine maintenance log | Tracks machine complaints from report to resolution: the fault, the fix, who handled it, and how long it took. Moving to React Native. | `Python` `Streamlit` `PostgreSQL` |
 
-## 🧰 Tech I Work With
+## Tech I work with
 
 <div align="center">
 
@@ -35,7 +35,7 @@ My differentiators are the kind most people my level don't have: a **fully on-pr
 
 </div>
 
-## 📊 Activity
+## Activity
 
 <div align="center">
 
@@ -58,7 +58,7 @@ My differentiators are the kind most people my level don't have: a **fully on-pr
 
 </div>
 
-## 📫 Reach Me
+## Reach me
 
 <div align="center">
 
