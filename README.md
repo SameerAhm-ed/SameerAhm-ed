@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,flutter,dart,fastapi,nodejs,postgres,redis,mysql,docker,linux,aws,vercel,git,github&perline=10" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,flutter,dart,fastapi,nodejs,postgres,redis,mysql,docker,linux,aws,vercel,git,github&theme=dark&perline=10" alt="tech stack"/>
 
 </div>
 
@@ -25,8 +25,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerAhm-ed&theme=default" height="185" alt="top languages"/>
-<img src="https://streak-stats.demolab.com?user=SameerAhm-ed&hide_border=true&background=FAFBFC&border=D8DEE6&stroke=2B3440&ring=5A54D6&fire=5A54D6&currStreakNum=2B3440&currStreakLabel=5A54D6&sideNums=2B3440&sideLabels=6B7480&dates=98A2AE" height="185" alt="contribution streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerAhm-ed&theme=github_dark" height="185" alt="top languages"/>
+<img src="https://streak-stats.demolab.com?user=SameerAhm-ed&background=0D1117&border=30363D&stroke=E6EDF3&ring=3FB950&fire=3FB950&currStreakNum=E6EDF3&currStreakLabel=3FB950&sideNums=E6EDF3&sideLabels=8B949E&dates=6E7681" height="185" alt="contribution streak"/>
 
 </div>
 
