@@ -8,42 +8,52 @@
 
 </div>
 
-Full-Stack Developer & Data Analyst at **Artistic Milliners (Unit 5)** and Computer Science student at **IQRA University**, based in Karachi. I build local-first AI and real-time systems that run in production on the factory floor — and I'm currently focused on conversational AI and RAG.
+**Full-Stack & AI Developer** building on-prem LLM tooling and real-time industrial systems. Full-Stack Developer & Data Analyst at **Artistic Milliners (Unit 5)**, CS @ **IQRA University** — Karachi, Pakistan.
+
+My differentiators are the kind most people my level don't have: a **fully on-prem RAG assistant** (no data leaves the machine) and a **real-time energy dashboard** running across 4 live manufacturing sites.
+
+### 🌱 Currently
+
+- Building conversational AI — on-prem RAG assistants with multi-turn memory, source citations, and a live eval harness *(Llama 3.2 · FastAPI · ChromaDB)*
+- Porting the plant machine-maintenance log *(Python · Streamlit · PostgreSQL)* to **React Native** so technicians can log complaints from the floor
+- Going deeper on vector search, prompt design, and containerized deploys *(Docker · Redis · Linux)*
 
 ## 🔨 Featured Work
 
 | Project | What it does | Built with |
 |---|---|---|
-| 🏭 [**Energy Monitoring System**](https://github.com/SameerAhm-ed/auth-app) | Real-time PWA monitoring 8 utility units across 4 industrial sites — power, steam, solar & gas at a glance, on any phone | `Next.js` · `TypeScript` · `MS SQL Server` · `Tailwind` |
-| 🤖 [**RAG Support Chatbot**](https://github.com/SameerAhm-ed/artistic-milliners-rag-bot) | Fully local company chatbot — multi-turn memory, source citations, anti-hallucination guardrails. No cloud, no data leaves the machine | `Python` · `FastAPI` · `ChromaDB` · `Llama 3.2` |
-| 🥇 [**Aurum — Gold Trader's Edge**](https://github.com/SameerAhm-ed/gold-analytics) | Decision-support PWA for gold traders: live prices, macro cockpit, risk desk & real push alerts | `Next.js 16` · `React 19` · `Web Push` |
-| 🔧 **Machine Maintenance Log** | Complaint-lifecycle tracking for plant machinery — faults, remedies, technician assignment & resolution times *(internal)* | `Python` · `Streamlit` · `PostgreSQL` → `React Native` |
+| 🤖 [**On-Prem RAG Chatbot**](https://github.com/SameerAhm-ed/artistic-milliners-rag-bot) | Fully local support assistant that answers only from a fixed knowledge base — source citations, anti-hallucination refusal, multi-turn memory, and a live 7/7 eval harness | `Python` · `FastAPI` · `ChromaDB` · `Llama 3.2` |
+| 🏭 [**Energy Monitoring System**](https://github.com/SameerAhm-ed/auth-app) | Real-time multi-site energy dashboard — live plant telemetry for 8 utility units across 4 sites, role-based access, offline-capable PWA | `Next.js` · `TypeScript` · `MS SQL Server` · `Tailwind` |
+| 🥇 [**Aurum — Gold Trader's Edge**](https://github.com/SameerAhm-ed/gold-analytics) | Mobile-first decision-support PWA for gold traders: live prices, macro cockpit, position-size risk desk, and real push alerts | `Next.js 16` · `React 19` · `Web Push` |
+| 🔧 **Machine Maintenance Log** | Complaint-lifecycle tracking for plant machinery — faults, remedies, technician assignment & resolution times *(internal → porting to React Native)* | `Python` · `Streamlit` · `PostgreSQL` |
 
 ## 🧰 Tech I Work With
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,flutter,dart,fastapi,nodejs,postgres,redis,mysql,docker,linux,aws,vercel,git,github&theme=dark&perline=10"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,flutter,dart,fastapi,nodejs,postgres,redis,mysql,docker,linux,aws,vercel,git,github&theme=light&perline=10"/>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,flutter,dart,fastapi,nodejs,postgres,redis,mysql,docker,linux,aws,vercel,git,github&theme=dark&perline=10" alt="tech stack"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,flutter,dart,fastapi,nodejs,postgres,redis,mysql,docker,linux,aws,vercel,git,github&theme=dark&perline=10" alt="Python, TypeScript, JavaScript, React, Next.js, Tailwind, Flutter, Dart, FastAPI, Node.js, PostgreSQL, Redis, MySQL, Docker, Linux, AWS, Vercel, Git, GitHub"/>
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SameerAhm-ed&bg_color=0d1117&color=56d4dd&line=3fb950&point=ffffff&area=true&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SameerAhm-ed&bg_color=ffffff&color=0e8074&line=1a7f37&point=000000&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SameerAhm-ed&bg_color=0d1117&color=56d4dd&line=3fb950&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerAhm-ed&theme=github_dark"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerAhm-ed&theme=default"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerAhm-ed&theme=github_dark" height="185" alt="top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SameerAhm-ed&theme=github_dark" height="180" alt="Top languages"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SameerAhm-ed&background=0D1117&border=30363D&stroke=E6EDF3&ring=3FB950&fire=3FB950&currStreakNum=E6EDF3&currStreakLabel=3FB950&sideNums=E6EDF3&sideLabels=8B949E&dates=6E7681"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SameerAhm-ed&background=FFFFFF&border=D0D7DE&stroke=1F2328&ring=1A7F37&fire=1A7F37&currStreakNum=1F2328&currStreakLabel=1A7F37&sideNums=1F2328&sideLabels=57606A&dates=8C959F"/>
-  <img src="https://streak-stats.demolab.com?user=SameerAhm-ed&background=0D1117&border=30363D&stroke=E6EDF3&ring=3FB950&fire=3FB950&currStreakNum=E6EDF3&currStreakLabel=3FB950&sideNums=E6EDF3&sideLabels=8B949E&dates=6E7681" height="185" alt="contribution streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SameerAhm-ed&theme=github_dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SameerAhm-ed&theme=default"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SameerAhm-ed&theme=github_dark" height="180" alt="Most-used languages"/>
 </picture>
 
 </div>
